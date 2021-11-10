@@ -1,4 +1,4 @@
-# Flag-Classification Flag Classification
+# Flag-Classification
 
 The project is based on the PyTorch framework and uses the open source ResNet 50 part of the code to a certain extent. (I did not make too many modifications and changes to the original ResNet 50 part of the code, and the original author's comments have been fully retained.)
 
