@@ -20,7 +20,7 @@ The following is a list of countries covered in this project:
 
 ### 1.2 Data set
 
-The training set has a total of 46 categories, each country has 30 national flag pictures, and the pictures are collected from the Internet. Because individual countries are too small and the source of national flags is scarce, in consideration of a balanced sample, all countries have kept 30.
+The training set has a total of 46 categories, each country has 30 national flag pictures, and the pictures are collected from the Internet. Because some countries are too 'small' and the image of national flags is lack, in consideration of a balanced data, all countries have kept 30 images.
 The pictures of the surplus were included in the test set.
 
 - Training set
