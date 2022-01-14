@@ -1,10 +1,8 @@
 # Flag-Classification
 
-The project is based on the PyTorch framework and uses the open source ResNet 50 part of the code to a certain extent. (I did not make too many modifications and changes to the original ResNet 50 part of the code, and the original author's comments have been fully retained.)
+The project is based on the PyTorch framework and uses the open source ResNet 50 part of the code to a certain extent. (I did not make too many modifications to the original ResNet50 of the code, and the original author's comments have been fully retained.)
 
-This project provides a data set and a detection model that I trained on Titan XP.
-
-(When I recall which dalao code I adopted, I will indicate the source of reference here and express my gratitude)
+This project provides a data set and a detection model that I trained on a single Titan XP.
 
 ## 1 Introduction
 
